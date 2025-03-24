@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "${id}",
+    "name": "${name}",
+    "description": "A utility mod for voxyl.net / bedwarspractice.club.",
+    "version": "${version}",
+    "mcversion": "${mcVersionStr}",
+    "url": "https://modrinth.com/project/voxyl",
+    "logoFile": "voxyl.png",
+    "authorList": [
+      "chromaticforge", "sophia2605"
+    ]
+  }
+]
